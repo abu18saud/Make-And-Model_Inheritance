@@ -1,0 +1,13 @@
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Make-And-Model_Inheritance\Make And Model_Inheritance\Make And Model_Inheritance\bin\Debug\netcoreapp3.1\Make And Model_Inheritance.exe
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Make-And-Model_Inheritance\Make And Model_Inheritance\Make And Model_Inheritance\bin\Debug\netcoreapp3.1\Make And Model_Inheritance.deps.json
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Make-And-Model_Inheritance\Make And Model_Inheritance\Make And Model_Inheritance\bin\Debug\netcoreapp3.1\Make And Model_Inheritance.runtimeconfig.json
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Make-And-Model_Inheritance\Make And Model_Inheritance\Make And Model_Inheritance\bin\Debug\netcoreapp3.1\Make And Model_Inheritance.runtimeconfig.dev.json
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Make-And-Model_Inheritance\Make And Model_Inheritance\Make And Model_Inheritance\bin\Debug\netcoreapp3.1\Make And Model_Inheritance.dll
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Make-And-Model_Inheritance\Make And Model_Inheritance\Make And Model_Inheritance\bin\Debug\netcoreapp3.1\Make And Model_Inheritance.pdb
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Make-And-Model_Inheritance\Make And Model_Inheritance\Make And Model_Inheritance\obj\Debug\netcoreapp3.1\Make And Model_Inheritance.csprojAssemblyReference.cache
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Make-And-Model_Inheritance\Make And Model_Inheritance\Make And Model_Inheritance\obj\Debug\netcoreapp3.1\Make And Model_Inheritance.AssemblyInfoInputs.cache
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Make-And-Model_Inheritance\Make And Model_Inheritance\Make And Model_Inheritance\obj\Debug\netcoreapp3.1\Make And Model_Inheritance.AssemblyInfo.cs
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Make-And-Model_Inheritance\Make And Model_Inheritance\Make And Model_Inheritance\obj\Debug\netcoreapp3.1\Make And Model_Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Make-And-Model_Inheritance\Make And Model_Inheritance\Make And Model_Inheritance\obj\Debug\netcoreapp3.1\Make And Model_Inheritance.dll
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Make-And-Model_Inheritance\Make And Model_Inheritance\Make And Model_Inheritance\obj\Debug\netcoreapp3.1\Make And Model_Inheritance.pdb
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Make-And-Model_Inheritance\Make And Model_Inheritance\Make And Model_Inheritance\obj\Debug\netcoreapp3.1\Make And Model_Inheritance.genruntimeconfig.cache
